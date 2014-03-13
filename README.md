@@ -1,0 +1,1 @@
+This is all my work envirment configuration. Not very complicated but feel free to use what you want.
